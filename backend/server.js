@@ -38,4 +38,4 @@ import orderRouter from "./routes/orderRoute.js";
     console.log(`Server Startd on http://localhost:${port}`)
  })
 
- //mongodb+srv://safalg121:GtHCFsBVicZEaY4W@cluster0.ku6ouzd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+ 
